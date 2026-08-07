@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kundan Kumar Thakur</h1>
-<h3 align="center">A passionate Developer & ECE Undergrad turning ideas into scalable applications.</h3>
+<h1 align="center">Hi 👋, I'm ASHISH KUMAR SAH</h1>
+<h3 align="center">A passionate Developer & CSE Undergrad turning ideas into scalable applications.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-sah-87575130b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]" target="blank">
@@ -19,7 +19,7 @@
 * 🧠 **Problem Solving:** Intermediate proficiency in **Data Structures & Algorithms (DSA)**.
 * ⚙️ **Development:** Focused on building robust backend architectures using **Spring Boot**.
 * 🗣️ **Languages:** Fluent in English & Hindi.
-* 📫 How to reach me: **[Your Email Address]**
+* 
 
 ---
 
