@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Pursuing **B.Tech in Electronics & Communication Engineering** at Chaibasa Engineering College (Batch 2023-27).
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering** at Chaibasa Engineering College (Batch 2023-27).
 * 💻 **Core Strengths:** Strong command over **Java** and **Object-Oriented Programming (OOPs)** principles.
 * 🧠 **Problem Solving:** Intermediate proficiency in **Data Structures & Algorithms (DSA)**.
 * ⚙️ **Development:** Focused on building robust backend architectures using **Spring Boot**.
